@@ -1,7 +1,7 @@
 import { DeviceInfo, TonProofItemReply } from '@tonconnect/protocol';
-import { Account } from 'src/models';
+import { 0x7ADc7c147B83D96752aF79b65DdE77949854a7B8 } from 'src/models';
 
-export interface Wallet {
+export interface Wallet {0x7ADc7c147B83D96752aF79b65DdE77949854a7B8
     /**
      * Information about user's wallet's device.
      */
